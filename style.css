@@ -1,0 +1,11 @@
+.population{
+    text-align: center;
+}
+div{
+    background-color: rgb(99, 95, 95);
+    color: azure;
+    border: 6px solid goldenrod;
+    border-radius: 3px;
+    margin: 5px;
+}
+    
